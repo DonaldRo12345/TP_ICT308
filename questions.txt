@@ -1,0 +1,12 @@
+What is the capital of France?,Paris,Berlin,London,Madrid
+Who wrote "Romeo and Juliet"?,William Shakespeare,Charles Dickens,Jane Austen,Ernest Hemingway
+Quelle est la capitale de la France?,Paris,Berlin,Londres,Madrid
+Qui a écrit "Le Petit Prince"?,Antoine de Saint-Exupéry,Victor Hugo,Marcel Proust,Albert Camus
+Quel est l'animal national de la France?,Coq,Lion,Chat,Chien
+Qui a peint "La Joconde"?,Leonardo da Vinci,Pablo Picasso,Vincent van Gogh,Claude Monet
+Quel est le fleuve qui traverse Paris?,La Seine,Le Rhône,Le Loire,Le Danube
+Quelle est la monnaie utilisée en France?,Euro,Dollar,Livre Sterling,Yen
+Combien de fois la France a-t-elle remporté la Coupe du Monde de football?,Deux fois,Une fois,Trois fois,Aucune fois
+Quel est le plat traditionnel français à base de viande et de légumes?,Boeuf bourguignon,Coq au vin,Ratatouille,Quiche Lorraine
+Quel est le symbole de la République française?,Marianne,Le Coq,La Tour Eiffel,Le Tricolore
+Quel est le nom de l'actuelle présidente de la France?,Emmanuel Macron,Marine Le Pen,Jean Castex,Anne Hidalgo
